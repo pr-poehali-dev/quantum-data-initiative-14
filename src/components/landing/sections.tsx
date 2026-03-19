@@ -66,7 +66,7 @@ export const sections = [
           Проблема решается системной работой — воронкой, контентом, возвратом ушедших и регулярными акциями.
         </p>
         <img
-          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/f69be4e8-db49-4384-b5dc-f0d4cbec1d8d.jpg"
+          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/649077cd-7cae-4891-b3d8-07588b6f4b27.jpg"
           alt="Рост базы"
           className="w-full max-w-sm rounded-xl opacity-80 object-cover h-36"
         />
@@ -97,7 +97,7 @@ export const sections = [
           </div>
         </div>
         <img
-          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/c7f5a0fb-163f-45b8-a960-bbdefd7592dc.jpg"
+          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/09ef46c2-1488-4484-9d72-a1102720bda1.jpg"
           alt="Воронка продаж"
           className="w-full max-w-md rounded-xl opacity-75 object-cover h-40"
         />
@@ -133,7 +133,7 @@ export const sections = [
           </div>
         </div>
         <img
-          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/4e81091f-e0f3-4710-add1-b025cbb47a70.jpg"
+          src="https://cdn.poehali.dev/projects/7289ee43-edf0-4306-b118-656567a7baa2/files/1323fcc7-0519-4d33-9432-52c00cab6c6e.jpg"
           alt="Контент и дизайн"
           className="w-full max-w-sm rounded-xl opacity-75 object-cover h-36"
         />
