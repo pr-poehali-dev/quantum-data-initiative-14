@@ -1,7 +1,7 @@
 import { Badge } from "@/components/ui/badge"
 import Icon from "@/components/ui/icon"
 
-const orange = "text-[#FF4D00]"
+const orange = "text-[#FF0000]"
 const card = "bg-white/5 border border-white/10 rounded-xl p-5"
 
 export const sections = [
@@ -259,22 +259,22 @@ export const sections = [
             <div className="text-neutral-400 text-sm">в месяц</div>
           </div>
         </div>
-        <div className={`${card} max-w-4xl border-[#FF4D00]/40 bg-[#FF4D00]/5`}>
+        <div className={`${card} max-w-4xl border-[#FF0000]/40 bg-[#FF0000]/5`}>
           <div className="flex items-center gap-3 mb-4">
-            <Icon name="CheckCircle" size={22} className="text-[#FF4D00]" />
+            <Icon name="CheckCircle" size={22} className="text-[#FF0000]" />
             <div className="text-white font-bold text-lg">Всё в одном лице за 20 000 ₽/мес.</div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
             <div className="flex items-start gap-2">
-              <Icon name="Clock" size={16} className="text-[#FF4D00] mt-0.5 shrink-0" />
+              <Icon name="Clock" size={16} className="text-[#FF0000] mt-0.5 shrink-0" />
               <div className="text-neutral-300 text-sm">Вы не думаете, что выложить завтра — я готовлю контент и стратегию</div>
             </div>
             <div className="flex items-start gap-2">
-              <Icon name="Wallet" size={16} className="text-[#FF4D00] mt-0.5 shrink-0" />
+              <Icon name="Wallet" size={16} className="text-[#FF0000] mt-0.5 shrink-0" />
               <div className="text-neutral-300 text-sm">Не нужно платить отдельно дизайнеру, копирайтеру и маркетологу</div>
             </div>
             <div className="flex items-start gap-2">
-              <Icon name="BarChart2" size={16} className="text-[#FF4D00] mt-0.5 shrink-0" />
+              <Icon name="BarChart2" size={16} className="text-[#FF0000] mt-0.5 shrink-0" />
               <div className="text-neutral-300 text-sm">Системность — будем точно знать, какая акция сработала, а какая нет</div>
             </div>
           </div>
@@ -296,7 +296,7 @@ export const sections = [
             'Ваше желание развиваться и выходить на новый уровень',
           ].map((item, i) => (
             <div key={i} className="flex items-center gap-3">
-              <div className={`w-7 h-7 rounded-full bg-[#FF4D00] flex items-center justify-center text-black font-bold text-sm shrink-0`}>{i + 1}</div>
+              <div className={`w-7 h-7 rounded-full bg-[#FF0000] flex items-center justify-center text-black font-bold text-sm shrink-0`}>{i + 1}</div>
               <div className="text-neutral-300">{item}</div>
             </div>
           ))}
